@@ -1,0 +1,18 @@
+{
+  "directories": [
+    ".github/ISSUE_TEMPLATE",
+    ".github/workflows",
+    "docs",
+    "infra",
+    "service/lambda-functions/service",
+    "service/lambda-functions/common",
+    "service/lambda-functions/tests"
+  ],
+  "files": [
+    "docs/README.md",
+    "build.sh",
+    "buildspec.yml",
+    "README.md",
+    "controller.json"
+  ]
+}
